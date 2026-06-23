@@ -8,7 +8,7 @@ Senior Software Engineer & Technical Lead | Java | Spring Boot | Microservices |
 ---
 
 ## 📫 Contact  
-- **Email:** kannuriajay@gmail.com  
+- **Email:** ajaykumarkannuri@gmail.com  
 - **Phone:** +91 9972743510  
 - **Location:** India  
 
@@ -22,8 +22,16 @@ Passionate about building secure, scalable, cloud-native systems and driving inn
 
 ## 🏢 Experience
 
+### **💼 Senior Consultant – SII Group India Pvt. Ltd. (Mar 2026 – Present)
+**Dec 2022 – Present**
+- Designing and developing enterprise applications using Java 21, Spring Boot, Angular 17, RabbitMQ, and MSSQL.
+- Developing microservices-based solutions and RESTful APIs.
+- Implementing application security, code reviews, and best development practices.
+- Collaborating with stakeholders to deliver scalable and maintainable business solutions.
+- Supporting system integration, deployment, and production activities.
+
 ### **💼 Senior Software Engineer – Luxoft India LLP (DXC Company)**  
-**Dec 2022 – Present**  
+**Dec 2022 – Mar 2026**  
 - Designed and developed microservices using **Spring Boot**, REST APIs, **Amazon Redshift**, and **Oracle**.  
 - Built responsive **Angular** UIs integrated with backend microservices.  
 - Automated CI/CD pipelines using **Jenkins, Docker, Git**, monitored apps using **Dynatrace/Kibana**.  
@@ -68,13 +76,6 @@ Passionate about building secure, scalable, cloud-native systems and driving inn
 **Jan 2010 – Mar 2012**  
 - Customized healthcare systems (HP HIS) using **Struts, Spring, Hibernate**.  
 - Built UI modules and server-side components.
-
----
-
-### **💼 Software Engineer – BA Continuum Pvt Ltd (Bank of America project)**  
-**Nov 2007 – Jun 2009**  
-- Developed customer interaction modules with **Java, Struts, Web Services**.  
-- Maintained and enhanced the TouchPoint financial platform.
 
 ---
 
